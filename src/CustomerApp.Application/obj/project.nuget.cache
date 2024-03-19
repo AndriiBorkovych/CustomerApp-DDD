@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "soq9wPQvNcW4oeBrcm9c+emXMcVQayvDI9sDKO+GE5Uvs/4q23XEh7qUBKvGzNEvdHqdNFFjACPQHcdd3F9NcQ==",
+  "success": true,
+  "projectFilePath": "D:\\CustomerApp\\src\\CustomerApp.Application\\CustomerApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mapster\\7.4.1-pre01\\mapster.7.4.1-pre01.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mapster.core\\1.2.2-pre01\\mapster.core.1.2.2-pre01.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

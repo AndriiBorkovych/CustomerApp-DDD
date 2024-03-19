@@ -1,0 +1,12 @@
+D:\CustomerApp\src\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.deps.json
+D:\CustomerApp\src\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.dll
+D:\CustomerApp\src\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.pdb
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.csproj.AssemblyReference.cache
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfoInputs.cache
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfo.cs
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.csproj.CoreCompileInputs.cache
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.dll
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\refint\CustomerApp.Domain.dll
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.pdb
+D:\CustomerApp\src\CustomerApp.Domain\obj\Debug\net8.0\ref\CustomerApp.Domain.dll
